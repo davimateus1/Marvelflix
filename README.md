@@ -1,4 +1,4 @@
-<h1> 🎬 MARVELFLIX 🎬</h1>
+<h1 align="center"> 🎬 MARVELFLIX 🎬</h1>
 <br>
 <h2>🖥️ Screenshot da página no PC: </h2>
 <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/128938656-4741727a-4401-4f10-b336-5326c05b143e.jpg" width="100%">
